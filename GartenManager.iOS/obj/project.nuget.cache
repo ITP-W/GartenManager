@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SC7utdcfb2ka8hufTWX9rpkANwfjMQmEVwFkduryiXQiMtFijPMYH9XdsZufckKWuK/HLFoqqBXcMpZ49F1h5g==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Coding\\WEB\\Web-Sites-Apps\\GartenManager\\GartenManager\\GartenManager\\GartenManager.iOS\\GartenManager.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BHH-P\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
